@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN and Next.js<br>💬 Ask me about MERN , Next.js<br>👨‍💻 All of my projects are available at https://deepanshu-psi.vercel.app/<br>📄 Know about my experiences https://twitter.com/DeepanshuS7943<br>📫 How to reach me deepanshusaini2711@gmail.com
+🌱 I’m currently learning MERN and Next.js<br>💬 Ask me about MERN , Next.js<br>👨‍💻 All of my projects are available at https://portfolio.deepxdev.com<br>📄 Know about my experiences https://twitter.com/DeepanshuS7943<br>📫 How to reach me deepanshusaini2711@gmail.com
 
 
 ## 🌐 Socials:
