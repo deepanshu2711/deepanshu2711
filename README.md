@@ -19,7 +19,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-saini-a6757b213)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepanshusaini_603)
 [![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DeepanshuS7943)
-[![Visitors](https://visitcount.itsvg.in/api?id=deepanshu2711&label=Profile+Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepanshu2711&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -100,16 +101,6 @@ const deepanshu = {
 
 ---
 
-## 🏆 Top Contributions
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=deepanshu2711&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -133,7 +124,11 @@ const deepanshu = {
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/deepanshu2711/deepanshu2711/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshu2711/deepanshu2711/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshu2711/deepanshu2711/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/deepanshu2711/deepanshu2711/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
