@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hi, I'm Deepanshu Saini 👋
-### Full Stack Developer · Diving into Python & AI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,50:00D9FF,100:7C3AED&height=180&section=header&text=Deepanshu%20Saini&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Building%20AI%20Agents&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Now+exploring+Python+%2B+AI+%F0%9F%A4%96;Building+products%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=620&lines=%3E+initializing+agent...+status%3A+ONLINE;Full+Stack+Developer+%7C+MERN+%2B+Next.js;Now+building+with+LLMs%2C+tools+%26+agents+%F0%9F%A4%96;Ship+fast.+Learn+faster.+Automate+the+rest." alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deepxdev.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://deepxdev.com)
-[![Email](https://img.shields.io/badge/Email-deepanshusaini2711%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusaini2711@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusaini2711@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-saini-a6757b213)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DeepanshuS7943)
 
@@ -18,33 +17,44 @@
 
 ---
 
-## About Me
+## `~/whoami`
 
-I'm a Full Stack Developer based in India who loves turning ideas into real, working products — from the UI down to the database. I've spent most of my time building with the **MERN stack** and **Next.js**, and lately I've been going deep into **Python and AI**, exploring how to build smarter, more capable applications.
+Full Stack Developer from India who likes shipping things that actually run in production — UI, API, database, deploy, all of it. Spent most of my time in the **MERN stack** and **Next.js**, and lately I've been going deep into **Python and AI**: LLM apps, tool calling, retrieval, and agents that do real work instead of just chatting.
 
-```python
-class Deepanshu:
-    def __init__(self):
-        self.role = "Full Stack Developer"
-        self.location = "India 🇮🇳"
-        self.currently_learning = ["Python", "AI / Machine Learning"]
-        self.stack = ["MERN", "Next.js", "React Native"]
-        self.portfolio = "https://deepxdev.com"
-        self.motto = "Ship fast. Learn faster. 🚀"
+I care about the boring parts too — latency, cost per call, retries, and what happens when the model gets it wrong.
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something!")
+```yaml
+agent:
+  name: deepanshu
+  role: Full Stack Developer
+  location: India 🇮🇳
+  status: building
+
+  system_prompt: >
+    Turn ideas into working products.
+    Prefer shipping over planning.
+    Automate anything done twice.
+
+  tools:
+    - typescript      # react, next.js, node
+    - python          # fastapi, scripting, ml
+    - react_native    # mobile
+    - llm_apis        # prompting, tool calling, rag
+
+  learning:
+    - agent architectures & orchestration
+    - machine learning fundamentals
+    - evals: measuring what "good" means
+
+  open_to: [open source, ai projects, collabs]
 ```
 
-- 🔭 Currently focused on: **Python & AI**
-- 💼 Also building with: MERN Stack, Next.js, React Native
-- 🌱 Exploring: machine learning fundamentals, AI-powered applications
-- 💬 Open to collaborating on open-source, AI, and product ideas
-- 📫 Reach me at **deepanshusaini2711@gmail.com**
+## `~/connect`
 
----
+Always up for talking about AI agents, product ideas, or anything worth building.
 
+**[deepxdev.com](https://deepxdev.com)** · **[deepanshusaini2711@gmail.com](mailto:deepanshusaini2711@gmail.com)**
 
-<sub>⭐ If you find my work interesting, consider starring my repos!</sub>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0B0F17&height=120&section=footer" width="100%"/>
 </div>
